@@ -151,7 +151,7 @@ n_tokens_title',
 
 "Functions for Flask API.ipynb" contains the functions we used in order to make the model work in the API.
 
-Commands to create and activate the virtual environment : 
+# Commands to create and activate the virtual environment : 
 
 In anaconda prompt we do :
 
