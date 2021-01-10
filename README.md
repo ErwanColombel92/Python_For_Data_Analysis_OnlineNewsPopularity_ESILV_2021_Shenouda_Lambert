@@ -127,7 +127,7 @@ You will find in the .ipynb the recall, precision, AUC, F1-score for each one of
 
 # API
 
-We alo provided an API using Flask. It works with an XGB model trained on the same dataset on the following parameters :
+We alo provide an API using Flask. It works with an XGB model trained on the same dataset on the following parameters :
 
 n_tokens_title',
 'n_tokens_content',
