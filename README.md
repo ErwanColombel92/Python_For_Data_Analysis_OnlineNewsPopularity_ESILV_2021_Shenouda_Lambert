@@ -147,11 +147,11 @@ n_tokens_title',
 "data_channel_is_bus", "data_channel_is_entertainment",
 "data_channel_is_lifestyle
 
-"Model creation for Flask API.ipynb" is the file used to create the xgb model used it the API.
+"Model creation for Flask API.ipynb" is the file used to create the xgb model used in the API.
 
 "Functions for Flask API.ipynb" contains the functions we used in order to make the model work in the API.
 
-The accuracy of the model used in the API is 53.3%
+The accuracy of the model in the API is 53.3%
 
 # Commands to create and activate the virtual environment : 
 
