@@ -151,6 +151,8 @@ n_tokens_title',
 
 "Functions for Flask API.ipynb" contains the functions we used in order to make the model work in the API.
 
+The accuracy of the model used in the API is 53.3%
+
 # Commands to create and activate the virtual environment : 
 
 In anaconda prompt we do :
