@@ -150,3 +150,25 @@ n_tokens_title',
 "Model creation for Flask API.ipynb" is the file used to create the xgb model used it the API.
 
 "Functions for Flask API.ipynb" contains the functions we used in order to make the model work in the API.
+
+Commands to create and activate the virtual environment : 
+
+In anaconda prompt we do :
+
+mkdir flask_application
+
+cd flask_application 
+
+python -m venv .\monenv
+
+from there the virtual environment is created
+
+When we want to activate it (to test the code), we do on anaconda pronpt : 
+
+cd flask_application 
+
+monenv/Scripts/activate
+
+python app2.py 
+
+then we open a web page and put in the url "http://localhost:5000/"
