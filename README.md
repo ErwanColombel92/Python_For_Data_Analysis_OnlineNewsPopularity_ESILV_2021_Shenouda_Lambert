@@ -2,6 +2,8 @@
 
 This work has been done by Gabriel Shenouda and Benjamin Lambert from ESILV - DIA1 - Paris in January 2021.
 
+The notebook containing the analysis is called : "OnlineNewsPopularity_Analysis_Shenouda_Lambert"
+
 # Dataset
 Link : https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity
 
