@@ -92,7 +92,7 @@ September, Coimbra, Portugal.
 -- The articles were published by Mashable (www.mashable.com) and their content as the rights to reproduce it belongs to them. Hence, this dataset does not share the original content but some statistics associated with it. The original content be publicly accessed and retrieved using the provided urls. -- Acquisition date: January 8, 2015 --
 
 
-# Experiments and result
+# Experiments and results
 We provide a set of visuals between the variables and the target 'shares'.
 
 We tried to do regression on this dataset but the results were bad (MSE too high). 
